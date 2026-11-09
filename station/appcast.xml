@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Ghostlight Station</title>
+    <item>
+      <title>0.1.7</title>
+      <pubDate>Mon, 09 Nov 2026 13:29:48 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/ghostlight-xr/builds/releases/download/station-0.1.7/Ghostlight-Station.zip" type="application/octet-stream" sparkle:edSignature="OCUKE8uhKjIfbx+Pf67aPFVEhxNcgfQgalMucvi/QfU3ACBPJjfOWxg3k0F14oA4XKhUbrtXSebLEgwACH/sAQ==" length="1136887"/>
+    </item>
+  </channel>
+</rss>
