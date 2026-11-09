@@ -5,7 +5,7 @@ venue's station would, and Chrome plays it in a built-in Quest 3 emulator. You n
 
 ## Set up
 
-1. Download **[Ghostlight-Station.dmg](https://github.com/ghostlight-xr/ghostlight-builds/releases/download/station/Ghostlight-Station.dmg)**,
+1. Download **[Ghostlight-Station.dmg](https://github.com/ghostlight-xr/builds/releases/download/station/Ghostlight-Station.dmg)**,
    drag **Ghostlight Station** to **Applications** and open it. Allow whatever macOS asks.
 2. It lives in the menu bar and downloads the game by itself. Once its menu shows **Ghost Hunt** and a version, choose
    **Open console**: the guide's page, which runs the game. Click **Add bot** once or twice for teammates.
