@@ -3,12 +3,12 @@
   <channel>
     <title>Ghostlight Station</title>
     <item>
-      <title>0.1.15</title>
-      <pubDate>Wed, 18 Nov 2026 21:10:39 +0000</pubDate>
-      <sparkle:version>15</sparkle:version>
-      <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
+      <title>0.1.16</title>
+      <pubDate>Thu, 26 Nov 2026 17:42:13 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/ghostlight-xr/builds/releases/download/station-0.1.15/Ghostlight-Station.zip" type="application/octet-stream" sparkle:edSignature="4qnomAPWoDklyyrMPSrkFn1XBkSv8N2vbmS8uXFzlPCXoNSSMBE15+xpVyF1MtK6N6wcCywrYX7jMHt+LhoLBg==" length="2891079"/>
+      <enclosure url="https://github.com/ghostlight-xr/builds/releases/download/station-0.1.16/Ghostlight-Station.zip" type="application/octet-stream" sparkle:edSignature="IvbXmxEqvXvabDbDDmO9H4DSYiH+KZP5c3zeh7Pe6fPyxl/VIQs3UBSgtSckxJI3JZivVrj7iwnlgdTreaBhCw==" length="2891080"/>
     </item>
   </channel>
 </rss>
